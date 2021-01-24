@@ -1,4 +1,4 @@
-# ETL PROJECT 
+# ETL PROJECT on Lego Sets Data
 
 #### **FOLDERS / FILES**
 - folder: 'data_raw' (all initially downloaded .csv files & our created JSON file)
